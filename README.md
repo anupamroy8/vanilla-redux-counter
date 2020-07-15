@@ -1,3 +1,3 @@
 # vanilla-redux-counter
 
-###counter done with vanilla redux
+### counter done with vanilla redux
